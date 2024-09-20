@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI&fontSize=90&fontAlign=50&fontAlignY=30&desc=welcome to kikolove's sapce&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&%C2%A7ion=header&text=HI&fontSize=90&fontAlign=50&fontAlignY=30&desc=welcome%20to%20kikolove%27s%20sapce&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
