@@ -6,13 +6,13 @@
 
 <p align="center">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kiko-love&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<!-- <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=kiko-love&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" /> -->
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=kiko-love&theme=transparent&hide_border=true" />
+<!-- <img align="center" width="400" src="https://streak-stats.demolab.com?user=kiko-love&theme=transparent&hide_border=true" /> -->
 <br/>
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-love&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-love&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" /> -->
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,java,html,css,js,ts,md,vue,react,docker,git,nginx,pinia,tailwind,vite">
